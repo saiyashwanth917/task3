@@ -1,1 +1,2 @@
 # task3
+This project applies Linear Regression to predict house prices using a real-world housing dataset. The data was preprocessed with one-hot encoding for categorical variables and split into training and testing sets. A Linear Regression model was trained using Scikit-learn and evaluated with MAE, MSE, and R² score. The results were visualized through an Actual vs Predicted plot. Feature coefficients were interpreted to understand their impact on price. This task provides a hands-on understanding of regression modeling and evaluation.
